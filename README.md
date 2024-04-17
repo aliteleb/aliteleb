@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ali_teleb123" target="blank"><img src="https://img.shields.io/twitter/follow/ali_teleb123?logo=twitter&style=for-the-badge" alt="ali_teleb123" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Livewire**
 - 🔭 I’m currently working as a **Freelancer**
 - 📫 How to reach me **aliteleb123456@gmail.com**
 
